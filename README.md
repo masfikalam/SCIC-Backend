@@ -1,6 +1,6 @@
 # SCIC Backend
 
-A backend project for learning CRUD, Auth, Structure etc.
+A backend project for learning CRUD, Auth, Structure, File Upload etc.
 
 - User login and signup.
 - Password hashing with bcrypt.
